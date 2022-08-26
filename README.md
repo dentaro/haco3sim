@@ -6,6 +6,10 @@
 
 でんたろうなりに、レイアウトし直しただけのものです。 
 
+オリジナルはこちらです
+
+https://inajob.github.io/o-bako-simulator/index.html
+
 エディター作成のためにaceを利用しています。 
 
 Luaの実行のために https://fengari.io/ を利用しています。
