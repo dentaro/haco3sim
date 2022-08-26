@@ -7,5 +7,3 @@
 エディター作成のためにaceを利用しています。 
 
 Luaの実行のために https://fengari.io/ を利用しています。
-
-![Uploading haco3simshot.png…]()
