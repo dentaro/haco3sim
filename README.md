@@ -16,3 +16,7 @@ https://inajob.github.io/o-bako-simulator/index.html
 Luaの実行のために https://fengari.io/ を利用しています。
 
 zipを展開してindex.HTMLをブラウザで開いて利用してみて下さい。
+
+スプライトはでんたろうがオリジナルで作っているので、自由に使っていただいて構いません。
+
+<img width="699" alt="スクリーンショット 2022-08-28 17 09 18" src="https://user-images.githubusercontent.com/77978725/187065038-df6a6056-5d24-4c28-ba0b-02f46a7b72cc.png">
