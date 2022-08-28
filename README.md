@@ -20,3 +20,4 @@ zipを展開してindex.HTMLをブラウザで開いて利用してみて下さ�
 スプライトはでんたろうがオリジナルで作っているので、自由に使っていただいて構いません。
 
 <img width="699" alt="スクリーンショット 2022-08-28 17 09 18" src="https://user-images.githubusercontent.com/77978725/187065038-df6a6056-5d24-4c28-ba0b-02f46a7b72cc.png">
+<img width="814" alt="スクリーンショット 2022-08-29 0 12 51" src="https://user-images.githubusercontent.com/77978725/187081322-95390576-6013-429f-97a7-41041c9fadb5.png">
