@@ -1,6 +1,6 @@
 # haco3sim
 
-2022.09.1 JS_VM版のエラーを修正しました。VM版はMAMPやXAMPなどの仮想サーバー上でしか動作しませんのでご注意ください。（local版はダウンロードだけで動きますが、luaしかありません）
+2022.09.1 JS_VM版のエラーを修正しました。キャッシュを利用しないことで、スプライトの読み込みを安定させました。VM版はMAMPやXAMPなどの仮想サーバー上でしか動作しませんのでご注意ください。（local版はダウンロードだけで動きますが、luaしかありません）
 
 <img width="1660" alt="haco3shot1" src="https://user-images.githubusercontent.com/77978725/186862009-81d78b64-00c5-4ba5-8776-e13341b7aebb.png">
 <img width="1287" alt="spriteedit" src="https://user-images.githubusercontent.com/77978725/187037995-433484e9-3504-439e-b245-ce2eeadae1e9.png">
