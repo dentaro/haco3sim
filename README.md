@@ -1,5 +1,13 @@
 # haco3sim
 
+haco3simはWebで動作するゲーム開発環境です。
+
+完全にlocalで動作するlocal版（Luaのみ）と
+
+XAMPPやMAMPなどの仮想サーバー上で動作するVM版（Lua、JS）
+
+の２種類があります。VMが更新頻度が高いのでおすすめです。
+
 2022.09.1 JS_VM版のエラーを修正しました。キャッシュを利用しないことで、スプライトの読み込みを安定させました。VM版はMAMPやXAMPなどの仮想サーバー上でしか動作しませんのでご注意ください。（local版はダウンロードだけで動きますが、luaしかありません）
 
 <img width="1660" alt="haco3shot1" src="https://user-images.githubusercontent.com/77978725/186862009-81d78b64-00c5-4ba5-8776-e13341b7aebb.png">
